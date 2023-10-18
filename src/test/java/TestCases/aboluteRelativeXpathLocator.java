@@ -24,6 +24,7 @@ public class aboluteRelativeXpathLocator {
 			driver.manage().window().maximize();
 			// navigate to url
 			driver.get("https://www.saucedemo.com/");
+			
 		 }
 		
 		@Test
@@ -34,6 +35,7 @@ public class aboluteRelativeXpathLocator {
 			//absolute xpath
 			driver.findElement(By.xpath("/html/body/div/div/div[2]/div[1]/div/div/form/div[1]/input")).sendKeys("supriya");
 			System.out.println("entred usrname and password");
+			System.out.println("added the code changes");
 		}
 		
 		

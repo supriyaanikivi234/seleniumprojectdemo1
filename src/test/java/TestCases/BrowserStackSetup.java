@@ -83,6 +83,8 @@ public class BrowserStackSetup {
 				System.out.println("4.testcase failed");
 			}
 			
+			System.out.println("added the code changes");
+			
 			
 		}
 		
