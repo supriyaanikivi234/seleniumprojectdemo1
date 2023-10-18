@@ -36,6 +36,7 @@ public class aboluteRelativeXpathLocator {
 			driver.findElement(By.xpath("/html/body/div/div/div[2]/div[1]/div/div/form/div[1]/input")).sendKeys("supriya");
 			System.out.println("entred usrname and password");
 			System.out.println("added the code changes");
+			System.out.println("added the code change direcly to github repository");
 		}
 		
 		
