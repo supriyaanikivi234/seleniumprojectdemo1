@@ -84,7 +84,7 @@ public class BrowserStackSetup {
 			}
 			
 			System.out.println("added the code changes");
-			
+			System.out.println("updating code to sub barnch from local repository or eclipse to github repository");
 			
 		}
 		
